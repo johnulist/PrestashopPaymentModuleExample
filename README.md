@@ -1,0 +1,4 @@
+PrestashopPaymentModuleExample
+==============================
+
+Payment Module Example
